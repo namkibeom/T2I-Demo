@@ -18,10 +18,10 @@
         <table> <tr> GLIDE </tr> <tr> <img src="image/GLIDE_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td width="150">
-       <table> <tr> SD v1 </tr> <tr> <img src="image/SDv1-4_1.png" width="100" height="100"> </tr> </table>
+       <table> <tr> SD v1-4 </tr> <tr> <img src="image/SDv1-4_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td width="150"> 
-        <table> <tr> SD v2 </tr> <tr> <img src="image/SDv2-1_1.png" width="100" height="100"> </tr> </table>
+        <table> <tr> SD v2-1 </tr> <tr> <img src="image/SDv2-1_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td width="150">
       <table> <tr> Karlo </tr> <tr> <img src="image/karlo_1.png" width="100" height="100"> </tr> </table>
