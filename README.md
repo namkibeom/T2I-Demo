@@ -24,7 +24,7 @@
         <table> <tr> Stable Diffusion v2 </tr> <tr> <img src="image/SDv2-1_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td>
-      <table> <tr> Karlo </tr> <tr> <img src="image/karlo_1.png" width="200" height="200"> </tr> </table>
+      <table> <tr> Karlo </tr> <tr> <img src="image/karlo_1.png" width="100" height="100"> </tr> </table>
     </td>
   </tr>
   </table>
