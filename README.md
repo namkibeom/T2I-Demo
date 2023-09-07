@@ -14,7 +14,7 @@
     <td> 
         <table> <tr> minDALL-E </tr> <tr> <img src="image/minDALL-E_1.png" width="100" height="100"> </tr> </table>
     </td>
-    <td width='150> 
+    <td width="150"> 
         <table> <tr> GLIDE </tr> <tr> <img src="image/GLIDE_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td> 
