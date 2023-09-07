@@ -6,7 +6,7 @@
 <table>
   <table>
   <tr>
-    <table> <tr>  Caption: Three people standing next to an elephant along a river </tr> <tr> <img src="image/MScoco_1.png" width="200"> </tr> </table>
+    <table> <tr>  Caption: Three people standing next to an elephant along a river </tr> <tr> <img src="image/MScoco_1.png" width="200" height="200"> </tr> </table>
   </tr>
   </table>
   <table>
