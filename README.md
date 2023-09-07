@@ -67,22 +67,6 @@
 
 
 
-## Setting
-### 사전에 설치해야 하는것들 적어주세요
-```shell
-pip install -r requirements.txt
-....
-cd ..
-```
-
-## Test
-### 코드를 실행하는 방법 적어주세요
-```shell
-run something
-....
-cd ..
-```
-
 
 ### minDALL-E
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@article{kakaobrain2021minDALL-E,
