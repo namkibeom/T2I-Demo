@@ -6,22 +6,22 @@
 <table>
   <table>
   <tr>
-    <table> <tr>  Caption: Three people standing next to an elephant along a river </tr> <tr> <img src="image/MScoco_1.png" width="200" height="200"> </tr> </table>
+    <table> <tr>  Caption: Three people standing next to an elephant along a river </tr> <tr> <img src="image/MScoco_1.png" width="100" height="100"> </tr> </table>
   </tr>
   </table>
   <table>
   <tr>
     <td> 
-        <table> <tr> minDALL-E </tr> <tr> <img src="image/minDALL-E_1.png" width="200" height="200"> </tr> </table>
+        <table> <tr> minDALL-E </tr> <tr> <img src="image/minDALL-E_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td> 
-        <table> <tr> GLIDE </tr> <tr> <img src="image/GLIDE_1.png" width="200" height="200"> </tr> </table>
+        <table> <tr> GLIDE </tr> <tr> <img src="image/GLIDE_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td> 
-       <table> <tr> Stable Diffusion v1 </tr> <tr> <img src="image/SDv1-4_1.png" width="200" height="200"> </tr> </table>
+       <table> <tr> Stable Diffusion v1 </tr> <tr> <img src="image/SDv1-4_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td> 
-        <table> <tr> Stable Diffusion v2 </tr> <tr> <img src="image/SDv2-1_1.png" width="200" height="200"> </tr> </table>
+        <table> <tr> Stable Diffusion v2 </tr> <tr> <img src="image/SDv2-1_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td>
       <table> <tr> Karlo </tr> <tr> <img src="image/karlo_1.png" width="200" height="200"> </tr> </table>
