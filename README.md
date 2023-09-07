@@ -18,7 +18,7 @@
         <table> <tr> GLIDE </tr> <tr> <img src="image/GLIDE_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td> 
-       <table> <tr> Stable Diffusion v1 </tr> <tr> <img src="image/SDv1-4_1.png" width="100" height="100"> </tr> </table>
+       <table> <th> Stable Diffusion v1 </th> <th> <img src="image/SDv1-4_1.png" width="100" height="100"> </th> </table>
     </td>
     <td> 
         <table> <tr> Stable Diffusion v2 </tr> <tr> <img src="image/SDv2-1_1.png" width="100" height="100"> </tr> </table>
