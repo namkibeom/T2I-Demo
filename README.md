@@ -11,7 +11,7 @@
   </table>
   <table>
   <tr>
-    <td width="200"> 
+    <td width="120"> 
         <table> <tr> minDALL-E </tr> <tr> <img src="image/minDALL-E_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td> 
