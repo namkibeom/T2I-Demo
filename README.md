@@ -11,8 +11,8 @@
   </table>
   <table>
   <tr>
-    <td> 
-        <table border="1" width="200> <tr> minDALL-E </tr> <tr> <img src="image/minDALL-E_1.png" width="100" height="100"> </tr> </table>
+    <td width="200"> 
+        <table> <tr> minDALL-E </tr> <tr> <img src="image/minDALL-E_1.png" width="100" height="100"> </tr> </table>
     </td>
     <td> 
         <table> <tr> GLIDE </tr> <tr> <img src="image/GLIDE_1.png" width="100" height="100"> </tr> </table>
