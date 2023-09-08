@@ -68,7 +68,7 @@ for test
 | SD v2-1    |    865.91M   |  512 x 512   |**3.77 ± 0.057** |        0.82       |      0.81      |
 | Karlo      |     3.3B     |  256 x 256   |   5.05 ± 0.032  |        0.83       |    **0.84**    |
 
-* Categorical Prompt Detail
+* Categorical Prompt detail
     * CLIP score
 
 | Model      |  Color-adj.  | Color-n. |  Count+Pos-phr. | Count+Pos-SE |
