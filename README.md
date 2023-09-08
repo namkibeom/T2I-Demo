@@ -33,19 +33,19 @@
 ## Streamlit, Flask Demo
 for demo
 
-* inference_for_demo.py contains the 5 models inference code
+* `inference_for_demo.py` contains the 5 models inference code
 
-* app_for_demo.py contains the API code for the Flask server (back-end)
+* `app_for_demo.py` contains the API code for the Flask server (back-end)
 
-* streamlit.py contains the streamlit code (front-end), streamlit-asyncio.py added Asynchronous processing
+* `streamlit.py` contains the streamlit code (front-end), `streamlit-asyncio.py` added Asynchronous processing
 
 for test
 
-* inference_for_test.py
+* `inference_for_test.py`
 
-* app_for_test.py
+* `app_for_test.py`
 
-* For_test_generate_COCO.py contains COCO caption-image generation test code
+* `For_test_generate_COCO.py` contains COCO caption-image generation test code
 
 
 ## Evaluation (Categorical Prompt)
