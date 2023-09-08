@@ -31,7 +31,7 @@
 </table>
 
 ## Streamlit, Flask Demo
-* Inference.py
+* inference_for_demo.py contains the 5 models inference code
 
 * app_for_demo.py contains the API code for the Flask server (back-end)
 
