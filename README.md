@@ -41,11 +41,11 @@ for demo
 
 for test
 
-* inference_for_demo.py contains the 5 models inference code
+* inference_for_demo.py
 
-* app_for_demo.py contains the API code for the Flask server (back-end)
+* app_for_test.py
 
-* streamlit.py contains the streamlit code (front-end)
+* streamlit.py
 
 ## Evaluation (Categorical Prompt)
 | Model      | Total Params | Resolution   |      Time       |  Categorical-phr. | Categorical-SE |
