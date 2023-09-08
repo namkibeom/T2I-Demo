@@ -40,7 +40,7 @@
 | Karlo      |     3.3B     |  256 x 256   |   5.05 ± 0.032  |        0.83       |    **0.84**    |
 
 
-## Evaluation (By Category)
+## Evaluation (Detail)
 | Model      |  Color-adj.  | Color-n. |  Count+Pos-phr. | Count+Pos-SE |
 |:----------:|:------------:|:--------:|:---------------:|:------------:|
 | minDALL-E  |     0.81     |   0.81   |      0.74       |     0.73     |
