@@ -32,6 +32,7 @@
 
 ## Streamlit, Flask Demo
 * server.py contains the API code for the Flask server (back-end)
+
 * main.py contains the streamlit code (front-end)
 
 ## Evaluation (Categorical Prompt)
