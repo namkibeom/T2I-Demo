@@ -37,15 +37,14 @@ for demo
 
 * app_for_demo.py contains the API code for the Flask server (back-end)
 
-* streamlit.py contains the streamlit code (front-end)
+* streamlit.py contains the streamlit code (front-end), streamlit-asyncio.py contains Asynchronous processing
 
 for test
 
-* inference_for_demo.py
+* inference_for_test.py
 
 * app_for_test.py
 
-* streamlit.py
 
 ## Evaluation (Categorical Prompt)
 | Model      | Total Params | Resolution   |      Time       |  Categorical-phr. | Categorical-SE |
