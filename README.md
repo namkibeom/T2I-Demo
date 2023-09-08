@@ -56,7 +56,9 @@ for test
 
 
 
-## Evaluation (Categorical Prompt, CLIP score)
+## Evaluation 
+* Categorical Prompt
+    * CLIP score
 | Model      | Total Params | Resolution   |      Time       |  Categorical-phr. | Categorical-SE |
 |:----------:|:------------:|:------------:|:---------------:|:-----------------:|:--------------:|
 | minDALL-E  |     1.3B     |  256 x 256   |   5.07 ± 0.035  |        0.75       |      0.74      |
@@ -65,8 +67,8 @@ for test
 | SD v2-1    |    865.91M   |  512 x 512   |**3.77 ± 0.057** |        0.82       |      0.81      |
 | Karlo      |     3.3B     |  256 x 256   |   5.05 ± 0.032  |        0.83       |    **0.84**    |
 
-
-## Evaluation (Detail, CLIP score)
+* Categorical Prompt Detail
+    * CLIP score
 | Model      |  Color-adj.  | Color-n. |  Count+Pos-phr. | Count+Pos-SE |
 |:----------:|:------------:|:--------:|:---------------:|:------------:|
 | minDALL-E  |     0.81     |   0.81   |      0.74       |     0.73     |
@@ -76,8 +78,8 @@ for test
 | Karlo      |     0.81     | **0.84** |      0.83       |   **0.84**   |
 
 
-
-## Evaluation (MS-COCO val14 , FID and CLIP score)
+* MS-COCO val14
+    * FID and CLIP score
 | Model      | zero-shot FID | CLIP Score  | 
 |:----------:|:------------:|:------------:|
 | minDALL-E  |     94.95    |    0.7248    |
