@@ -48,7 +48,9 @@ for test
 * `For_test_generate_COCO.py` contains COCO caption-image generation test code
 
 ## Dataset
-*  Categorical Prompt : [DrawBench](https://imagen.research.google/) Separation & transform (category, n./adj. , phr./SE)
+*  Categorical Prompt
+  
+    *  [DrawBench](https://imagen.research.google/) Separation & transform (category, n./adj. , phr./SE)
 
 *  MS-COCO val14 subset 
 
