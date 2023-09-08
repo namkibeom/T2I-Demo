@@ -80,7 +80,7 @@ for test
 | Karlo      |     0.81     | **0.84** |      0.83       |   **0.84**   |
 
 
-* MS-COCO val14
+* MS-COCO val14 subset
     * FID and CLIP score
 
 | Model      | zero-shot FID | CLIP Score  | 
