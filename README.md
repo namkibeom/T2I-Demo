@@ -50,7 +50,7 @@ for test
 ## Dataset
 *  `DrawBench` Separation & transform (category, n./adj. , phr./SE)
 
-*  MS-COCO val 
+*  `MS-COCO val` subset 
 
 
 ## Evaluation (Categorical Prompt)
