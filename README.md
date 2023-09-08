@@ -59,7 +59,7 @@ for test
 ## Evaluation 
 * **Categorical Prompt**
 
-    * streamlit/asyncio web inference speed
+    * Web inference speed (streamlit/asyncio)
   
     * CLIP score
 
