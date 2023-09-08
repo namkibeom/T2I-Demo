@@ -55,6 +55,7 @@ for test
 *  **MS-COCO val14 subset** 
 
 
+
 ## Evaluation (Categorical Prompt, CLIP score)
 | Model      | Total Params | Resolution   |      Time       |  Categorical-phr. | Categorical-SE |
 |:----------:|:------------:|:------------:|:---------------:|:-----------------:|:--------------:|
