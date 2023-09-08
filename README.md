@@ -70,6 +70,7 @@ for test
 | Karlo      |     3.3B     |  256 x 256   |   5.05 ± 0.032  |        0.83       |    **0.84**    |
 
 * **Categorical Prompt detail**
+
     * CLIP score
 
 | Model      |  Color-adj.  | Color-n. |  Count+Pos-phr. | Count+Pos-SE |
@@ -82,6 +83,7 @@ for test
 
 
 * **MS-COCO val14 subset**
+
     * FID and CLIP score
 
 | Model      | zero-shot FID | CLIP Score  | 
