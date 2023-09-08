@@ -1,4 +1,4 @@
-# A Comparative Study of Text-to-Image Generation Models
+# [ETRI] A Comparative Study of Text-to-Image Generation Models
 
 ## 1) minDALL-E , 2) GLIDE, 3) Stable Diffusion v1,v2, 4) Karlo
 
