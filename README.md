@@ -57,7 +57,8 @@ for test
 
 
 ## Evaluation 
-* Categorical Prompt
+* **Categorical Prompt**
+  
     * CLIP score
 
 | Model      | Total Params | Resolution   |      Time       |  Categorical-phr. | Categorical-SE |
@@ -68,7 +69,7 @@ for test
 | SD v2-1    |    865.91M   |  512 x 512   |**3.77 ± 0.057** |        0.82       |      0.81      |
 | Karlo      |     3.3B     |  256 x 256   |   5.05 ± 0.032  |        0.83       |    **0.84**    |
 
-* Categorical Prompt detail
+* **Categorical Prompt detail**
     * CLIP score
 
 | Model      |  Color-adj.  | Color-n. |  Count+Pos-phr. | Count+Pos-SE |
@@ -80,7 +81,7 @@ for test
 | Karlo      |     0.81     | **0.84** |      0.83       |   **0.84**   |
 
 
-* MS-COCO val14 subset
+* **MS-COCO val14 subset**
     * FID and CLIP score
 
 | Model      | zero-shot FID | CLIP Score  | 
