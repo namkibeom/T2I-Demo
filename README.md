@@ -36,7 +36,7 @@
 
 <img src="image/demo.png" width="600" heigh="400">
 
-* `inference_for_demo.py` contains the refactored inference code of 5 models
+* `inference_for_demo.py` contains the refactored inference code of 5 models (Source code optimization, not Hugging Face.)
 
 * `app_for_demo.py` contains the API code for the Flask server (back-end)
 
